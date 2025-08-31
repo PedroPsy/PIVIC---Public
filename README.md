@@ -1,6 +1,7 @@
 # PIVIC - Análise dos Históricos dos Alunos de Sistema de Informação
 
-Este projeto tem como objetivo realizar a extração, transformação e análise dos dados dos históricos acadêmicos dos alunos do curso de Sistema de Informação. A seguir, estão descritas as principais etapas do processo e as análises realizadas.
+Este projeto tem como objetivo realizar a extração, transformação e análise dos dados dos históricos acadêmicos dos alunos do curso de Sistema de Informação. A seguir, estão descritas as principais etapas do processo e as análises realizadas.\
+Os arquivos presentes neste repositório são uma cópia do repositório originial que possui as bases de dados utilizados para a pesquisa.
 
 1. Extração de Dados
 Leitura dos Dados:
