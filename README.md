@@ -44,6 +44,6 @@ Objetivo
 O projeto busca identificar padrões nos históricos dos alunos, apontando disciplinas com maiores dificuldades, taxas de trancamento e reprovação, além de destacar as disciplinas com melhores desempenhos.
 
 Autor:
-Seu nome aqui
-Licença:
-MIT
+Pedro Miguel Andrade de Souza
+Orientador: José Adson Oliveira Guedes da Cunha
+
